@@ -1,0 +1,55 @@
+        {
+            "party": "Victim",
+            "content": "> Also, please check with your tech people, it seems you have changed the root password to the Esxi server. Could you please send the new password?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> By the way, the unlocker you sent the second time works.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please try this password: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> And proof of deletion?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> log.rar // 3.45 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Our apologies for delay. The archive pass is: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate:\n\n1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.\n2. Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.\n3. Install 2FA wherever possible.\n4. Use the latest versions of operating systems, as they are less vulnerable to attacks.\n5. Update all software versions.\n6. Use antivirus solutions and traffic monitoring tools.\n7. Create a jump host for your VPN. Use unique credentials on it that differ from domain one.\n8. Use backup software with cloud storage which supports a token key.\n9. Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc.\n\nWe guarantee that we will not sell or publish your data, keep this conversation private, and delete this chat later. We won't come back for more money after payment and we won't attack you again.\n\nWe wish you safety, calmness and lots of benefits in the future. Thank you for working with us and your careful attitude to your security.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you, must say the breach report looks quite generic and not specific to us.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Also the root password you provided earlier didn't work.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Try this one [redacted]",
+            "timestamp": ""
+        }
