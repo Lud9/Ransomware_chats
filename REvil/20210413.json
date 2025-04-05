@@ -2,11 +2,6 @@
     "chat_id": "20210413",
     "messages": [
         {
-            "party": "Victim",
-            "content": "Good evening Sir/Madam. I'm [redacted], and I was asked by the [redacted]'s \nexecutives to assist them in completing a business arrangement with you.\n I'm neither a technological expert nor a lawyer. I have a financial \nbackground and currently work in the public sector here in the [redacted]. As \nyou probably understand, we would like to complete this unfortunate \nevent as swift and clean as possible. Kindly let me know how should I \ncall you and when should I expect your reply. Respectfully, [redacted].",
-            "timestamp": "14 days ago"
-        },
-        {
             "party": "REvil",
             "content": "Hello, our communication is conducted only through this chat.\nWe are ready to listen to your proposal.",
             "timestamp": "14 days ago"
